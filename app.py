@@ -64,5 +64,5 @@ manager = autogen.GroupChatManager(groupchat=groupchat, llm_config=llm_config)
 # Begin the group chat with a message from the user
 user_proxy.initiate_chat(
     manager,
-    message="develop a SaaS solution designed to streamline and enhance supply chain management for businesses.that's it."
+    message="give me numbers 1-10."
 )
